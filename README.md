@@ -1,5 +1,5 @@
-<img src="./my-gif.gif" />
-
+<img src="./my-gif.gif" autoplay />
+<h3 align="center">I'm a software developer who graduated in software engineering with knowledge in web development, designing, and testing. I have more than 30 certifications in different technologies and tools. I have knowledge of the front-end and the back-end with various programming languages. I'm focused on my skills and my job growth.</h3>
 - 📫 How to reach me **jose.a.mota11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
