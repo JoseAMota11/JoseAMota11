@@ -2,7 +2,7 @@
 I'm a software developer graduated in software development with experience in web development, design and testing. I have more than 30 certifications from Coursera, Platzi, ONE (Oracle Next Education), and more, all of them in different technologies and tools. I have knowledge of Front-End and Back-End with various programming languages. However, I specialize in the Front-End with React.js. I'm a person who enjoys learning new things every day, therefore, I'm always willing to face new challenges.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jose__mota11) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jose-mota-1bb602235/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Jose_Mota11) 
 
 # 💻 Tech Stack:
